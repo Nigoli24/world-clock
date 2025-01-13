@@ -2,6 +2,7 @@ body {
   background-image: url("https://wallpapers.com/images/hd/three-pocket-watches-showing-time-a2vajzo5jte568n5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  opacity: .5;
 }
 
 h1 {
