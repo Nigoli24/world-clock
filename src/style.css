@@ -2,7 +2,7 @@ body {
   background-image: url("https://wallpapers.com/images/hd/three-pocket-watches-showing-time-a2vajzo5jte568n5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: .5;
+
 }
 
 h1 {
@@ -29,7 +29,7 @@ select {
   border: gray solid 2px;
   border-radius: 8px;
   background-color: #f3d6ac;
-  opacity: 0.9;
+
 }
 
 .city {
@@ -70,7 +70,7 @@ footer {
   text-align: center;
   font-size: 22px;
   padding: 8px 0;
-  background-color: #090103;
-  color: #924817;
+ 
+  color: #F2DB19;
   border-radius: 4px;
 }
